@@ -1,0 +1,256 @@
+	<style type="text/css">
+	/**Assignment by Sula Mabuza (93002021)**/
+		
+			*{
+				box-sizing: border-box;
+			}
+		     h1 {text-align: center; color: white; font-family: sans-serif;}
+		     h2{text-align: center; color: white; font-family: sans-serif;}
+		     h3{text-align: center; color: black; font-family: sans-serif;}
+		     h4{text-align: center; color: green; font-family: sans-serif;}
+
+			 	body {color: black; 
+			 font-family: sans-serif;
+			 line-height: 150%;
+			 text-align: justify;
+			 background-color: purple;
+			 background-image: url(footer-logo: .jpg);
+			 background-repeat: no-repeat;
+			 background-position: 50% 50%;
+			} 
+
+			div{
+
+				text-align: justify; 
+				font-size: 15px;
+				margin-left: 20%;
+				margin-right: 20%;
+
+			}
+
+			input{
+
+				margin-left: 20%;
+				width: 300px;
+				height: 30px;
+				background-color: transparent;
+				border-style: round;
+			}
+
+			#name {
+
+
+				margin-left: 0.5%;
+
+			}
+
+			#physicaladress{
+
+				margin-left: 0.5%;
+			}
+
+			#nationality {
+				margin-left: 0.5%;
+			}
+
+			#phonenumber {
+
+				margin-left: 0.5%;
+			}
+
+			#email {
+
+				margin-left: 0.5%;
+			}
+			#linkedin {
+
+				margin-left: 0.5%;			}
+			#gender{
+				margin-left: 22.6%;
+			}
+			#major {
+
+				margin-left: 23.6%
+			}
+			#graduationdate{
+				margin-left: 0.5%;
+			}
+			#highschool{
+				margin-left: 0.5%;
+			}
+			#location{
+				margin-left: 0.5%;
+			}
+			#certificate {
+				margin-left: 0.5%;
+			}
+			#hsgraddate {
+				margin-left: 0.5%;
+			}
+			button {
+
+				width: 60px;
+				height: 30px;
+				border-style: line;
+				border-width: 1px;
+				margin-left: 50%;
+			}
+
+			textarea{
+
+				background-color: transparent;
+				border-radius: 3px;
+				height: 200px;
+				margin-left: 0.5%;;
+			}
+
+			#firstachiev{
+
+				margin-left: 0.5%;
+
+			}
+			#firstachievdate{
+
+				margin-left: 0.5%;
+
+			}
+			#secondachiev{
+
+				margin-left: 0.5%;
+
+			}
+			#secachievdate{
+
+				margin-left: 0.5%;
+
+			}
+			#firstaward{
+
+				margin-left: 0.5%;
+			}
+			#firstawarddate{
+
+				margin-left: 0.5%;
+
+			}
+			#secondaward{
+
+				margin-left: 0.5%;
+
+			}
+			#secawarddate{
+				margin-left: 0.5%;
+
+			}
+			#thirdachiev{
+				margin-left: 0.5%;
+
+			}
+			#thirdachievdate{
+				margin-left: 0.5%;
+
+			}
+			#thirdaward{
+
+				margin-left: 0.5%;
+
+			}
+			#thirdawarddate{
+				margin-left: 0.5%;
+
+			}
+			#firstwork,#secwork,#firstactivity,#secactivity{
+				margin-left: 0.5%;
+			}
+			#firstworkdate,#secworkdate,#firstactdate,#secactdate{
+				margin-left: 0.5%;
+			}
+
+			#firstproject,#firstprojectdate,
+			#secproject,#secprojectdate,#skill1,
+			#skill2,#skill3{
+
+				margin-left: 0.5%;
+				display: inline-block;
+
+			}
+
+			#project1txt,#project2txt{
+				margin-left: 0.5%;
+				width: 300px;
+				border-width: 2px;
+			}
+
+
+			#topage3{
+
+			
+				margin-right: 0%;
+				width: 49%;
+				margin-bottom: 0%;
+			}
+			#toindexpage{
+				margin-left: 0%;
+				width: 49%;
+				margin-bottom: 0%;
+
+			}
+			#endform{
+
+				text-align: center;
+				margin-left: 30%;
+				color: green;
+			}
+
+			.form-box{
+
+				background-color: white;
+				text-decoration-color: black;
+				width: 500px;
+				border-radius: 5px;
+			  
+			}
+			form{
+
+				text-decoration-color: black;
+				display: inline-block;
+				margin-left: auto;
+				margin-right: auto;
+				text-align: left;
+				font-family: sans-serif;
+
+			}
+
+			label,input,textarea{
+
+				text-decoration-color: black;
+				display: inline-block;
+			}
+			#controlform{
+
+				display: block;
+				text-align: center;
+				margin-left: auto;
+				margin-right: auto;
+
+			}
+			#workexperience1,#workexperience2,#extracurricular1,#extracurricular2{
+				margin-left: auto;
+				margin-right: auto;
+				display: inline-block;
+				width: 300px;
+				border-width: 2px;
+			}
+
+			#indexbutton{
+				width: 100%;
+				margin-left: 0px;
+				color: purple;
+			}
+
+
+
+
+
+
+	</style>
